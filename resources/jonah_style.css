@@ -1,0 +1,48 @@
+/*
+ * blue: #191718
+ * red: #6F3434
+ * light-blue: #2E7099
+ * green: #99982E
+ */
+
+body {
+	background-color: #191718;
+	padding: 0 24px 36px 24px;
+	color: #99982E;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1,
+h2 {
+	color: #2E7099;
+}
+
+a {
+	color: #99982E;
+}
+
+a:hover {
+	color: #2E7099;
+}
+
+img.cap {
+	vertical-align: text-top;
+}
+
+table.headertable {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td.headerpics {
+	padding: 25px;
+	border: none;
+}
+
+th,
+td {
+	border: #6F3434 groove 5px;
+}
