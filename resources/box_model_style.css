@@ -1,0 +1,56 @@
+/*
+  white: #FFFFFF
+  blue (a1): #4574B0
+  brown (a2): #A96642
+*/
+
+a {
+	color: #4574B0;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #A96642;
+}
+
+h1 {
+	color: #4574B0;
+	text-align: center;
+}
+
+p.bibliography {
+	font-style: italic;
+	color: #FF5900;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th,
+td {
+	border: #A96642 groove 4px;
+	padding: 4px;
+}
+
+p.demonstration {
+	background-color: #4574B0;
+	color: #FFFFFF;
+	width: 285px;
+	padding: 150px;
+	border: #A96642 dotted 75px;
+	margin: 200px;
+}
+
+div {
+	background-color: #4574B0;
+	width: 646px;
+	padding: 35px;
+	border: #A96642 double 6px;
+	margin: 35px;
+}
+
+body {
+	padding: 20px;
+}
